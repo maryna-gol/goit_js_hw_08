@@ -57,5 +57,5 @@ npm run dev
   используемые изображения чтобы не нагружать систему оптимизацией картинок, так как на слабых
   компьютерах это может занять много времени.
 
-  # Contributors
-- [Maryna Goloborodko](https://github.com/maryna-gol)
+# Contributors
+[Maryna Goloborodko](https://github.com/maryna-gol)
