@@ -50,7 +50,6 @@ npm run dev
 [https://goitacademy.github.io/parcel-project-template](https://goitacademy.github.io/parcel-project-template).
 
 ## Файлы и папки
-
 - Все паршалы файлов стилей должны лежать в папке `src/sass` и импортироваться в
   `src/sass/main.scss`
 - Изображения добавляйте в папку `src/images`, заранее оптимизировав их. Сборщик просто копирует
